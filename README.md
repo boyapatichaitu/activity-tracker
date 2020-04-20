@@ -2,6 +2,8 @@
 
 This is a buildable project that currently receives static data from [Activity mock](https://github.com/boyapatichaitu/activity-tracker/blob/master/src/Data/activity.js) and has been integrated with [react-big-calendar](https://github.com/jquense/react-big-calendar) to show complete activity timelines over a calendar.
 
+[**DEMO**](https://user-activity-display.herokuapp.com/)
+
 ## Installation
 
 ```
