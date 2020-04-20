@@ -1,6 +1,6 @@
 # User Activity Tracker / Display
 
-This is a buildable project that currently receives static date from [Activity mock](https://github.com/boyapatichaitu/activity-tracker/blob/master/src/Data/activity.js) and has been integrated with [react-big-calendar](https://github.com/jquense/react-big-calendar) to show complete activity timelines over a calendar.
+This is a buildable project that currently receives static data from [Activity mock](https://github.com/boyapatichaitu/activity-tracker/blob/master/src/Data/activity.js) and has been integrated with [react-big-calendar](https://github.com/jquense/react-big-calendar) to show complete activity timelines over a calendar.
 
 ## Installation
 
@@ -35,7 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `node server.js`
 
-Servers the production version of the app in [http://localhost:3000](http://localhost:3000)
+Serves the production version of the app in [http://localhost:3000](http://localhost:3000)
 
 Make sure to see that the `npm start` isn't running or the port `3000` causes issue.
 
