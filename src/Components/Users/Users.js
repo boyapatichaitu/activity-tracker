@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import UserActivity from '../UserActivity/UserActivity';
-import { userActivity } from '../../data/activity';
+import { userActivity } from '../../Data/activity';
 
 class Users extends Component {
     constructor(props) {
